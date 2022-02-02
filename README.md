@@ -1,6 +1,5 @@
 # Koki Oyama
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ajaku4505&count_private=true&show_icons=true" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajaku4505" />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ajaku4505&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
